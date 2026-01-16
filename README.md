@@ -145,7 +145,7 @@ For analysts reading this, start by asking:
 “What story do I want data to serve?”
 Build your pipelines to answer that question, not just produce outputs.
 
-How to Run
+**How to Run**
 
 Clone the repository
 
@@ -153,9 +153,10 @@ Place nevada.csv in the root folder
 
 Install dependencies (e.g., pandas, textblob, matplotlib)
 
-Run:
+**Run:**
 
 python main.py
 
 
-Review the generated nevada_charities_sentiment.csv and chart outputs
+**Review the generated nevada_charities_sentiment.csv and chart outputs
+**
